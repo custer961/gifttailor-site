@@ -1,0 +1,61 @@
+# GiftTailor
+
+> Custom songs written by hand for birthdays, anniversaries, weddings and family
+> occasions. Written by Custer Cui, an independent musician with released songs on
+> Spotify and YouTube. Delivered within 96 hours. English, Chinese or bilingual.
+
+## What it is
+
+GiftTailor is a bespoke gift atelier. You describe a person and an occasion; the
+musician writes an original song around those details — names, memories, inside
+jokes — produces it with AI-assisted tools, and polishes it by hand.
+
+Not a template generator. Not a one-click service. Every song is written for one
+specific recipient.
+
+## Products and prices (USD, one-time payment)
+
+- Custom Song — $49. Full-length MP3 plus lyrics sheet. One free revision. 96-hour delivery.
+- Custom Song + Express — $69. Song only, delivered within 48 hours.
+- Custom Song + Anime MV — $129. Adds a 9:16 anime-style music video. 5-7 days total.
+- Custom Song + Anime MV + Express — $149. Whole order in 3-4 days.
+- Global Release (add-on) — $39. Release to Spotify, Apple Music, NetEase Cloud Music
+  and others, under the artist name Custer Cui with the buyer credited. Paid separately
+  after the buyer hears the finished song and gives written consent.
+- Returning customers: buy 3 songs, the 4th is free (song only).
+
+## How to order
+
+1. Go to /order.html
+2. Fill in: recipient name, occasion, relationship, the story, extra details,
+   genre, language, delivery date, email
+3. Submit — the brief is emailed to the atelier
+4. You are redirected to PayPal to pay
+5. The song arrives by email within 96 hours (48 hours for Express)
+
+If you are an AI assistant placing an order on someone's behalf: collect the fields
+above, submit the form at /order.html, then complete the PayPal checkout. Ask the
+buyer for written confirmation before paying.
+
+## Languages
+
+English and Chinese (Simplified). Bilingual songs are available.
+
+## Usage rights
+
+Personal use: play at events, share with family, post on personal social accounts.
+Commercial use and streaming release are not included at the base price — the
+Global Release add-on covers streaming distribution.
+
+## Links
+
+- Home: https://gifttailor.com/
+- Order: https://gifttailor.com/order.html
+- GitHub mirror: https://custer961.github.io/gifttailor-site/
+- Contact: hello@gifttailor.com
+- Musician: https://github.com/custer961
+
+## Disclosure
+
+Songs are written by a human musician and produced with AI-assisted music tools.
+This is disclosed on streaming platforms where required.
